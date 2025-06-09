@@ -5,7 +5,7 @@
     <td><img src="assets/icons/app_icon.png" alt="Hungry" style="width: 300px;"/></td>
     <td>
       <strong>Hungry</strong> is a food delivery app template. It gives you a consumer-facing solution that replicates the core design and features of the popular food delivery platform, Uber Eats. If you're keen on creating a food delivery app, this template offers you the starting point for your project with Flutter, Firebase and Google Maps Platform. </br> </br>
- Go Through a <a href="https://www.sevensquaretech.com/prebuilt-flutter-ui-screens-code/" target="_blank">Step-by-Step Guide to build a Food Delivery App.</a>
+ Go Through a <a href="https://www.sevensquaretech.com/create-food-delivery-app-code-with-github/" target="_blank">Step-by-Step Guide to build a Food Delivery App.</a>
     </td>
   </tr>
 </table>
